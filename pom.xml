@@ -19,7 +19,7 @@
 	<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 </properties>
   
-</project>
+
 
 <repository>
 	      <id>nexus</id>
@@ -32,3 +32,7 @@
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://13.233.65.198:8081/repository/walmart-snapshot/</url>
 	    </snapshotRepository>
+<repository>
+	
+	
+</project>
